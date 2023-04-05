@@ -1,0 +1,18 @@
+Prezado usuário White,
+
+Recebemos o seu e-mail solicitando ajuda para fazer o cadastro de um novo usuário no Effettivo. Ficamos felizes em poder auxiliá-lo nessa tarefa.
+
+O cadastro de usuário é feito seguindo os passos abaixo:
+
+1. Acesse Cadastro->Básicos->Usuários.
+2. Clique em Inserir Novo
+3. Preencha os campos gerais e a aba de dados pessoais.
+4. Informe a filial do colaborador.
+5. Defina um perfil de acesso ao sistema.(Perfil=Quais módulos o usuário terá acesso)
+
+
+Esperamos que essas informações sejam úteis para você. Caso tenha alguma dúvida ou dificuldade, por favor, entre em contato conosco novamente.
+
+Atenciosamente,
+
+Equipe de Suporte do Effettivo

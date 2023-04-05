@@ -1,0 +1,2 @@
+DELETE FROM Usuario
+WHERE FLG_ATIVO = 0;
